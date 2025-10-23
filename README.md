@@ -4,27 +4,22 @@ This repository contains a microservice application with prod-ready components i
  
 ## Stack
 ### Technology
-Backend - Java + Spring Boot 3
-Frontend - Angular + TailwindCSS
+Backend - Java + Spring Boot 3<br>Frontend - Angular + TailwindCSS
 
 ### Async Processing
 Apache Kafka
 
 ### Services Orchestration
-Docker Compose
-Spring Cloud
+Docker Compose<br>Spring Cloud
 
 ### Security
 Spring Boot 3 Security + OAuth2
 
 ### Monitoring
-Visualization - Grafana
-Metrics - Prometheus
-Logging - Loki
-Tracing - Tempo
+Visualization - Grafana<br>Metrics - Prometheus<br>Logging - Loki<br>Tracing - Tempo
 
 ### Others
-Auth provider - Keycloak
+Auth provider - Keycloak<br>
 Doc - Swagger OpenAPI
 
 ### Attribution
